@@ -13,3 +13,23 @@ img {
     float: left;
     margin-right: 20px;
 }
+
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li {
+    margin: 0 35px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.column {
+    padding: 15px;
+}
