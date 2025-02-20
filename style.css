@@ -3,6 +3,7 @@ body {
     background-color: ivory;
     margin: 10px 50px 10px 50px;
     font-family: 'Open Sans', sans-serif;
+    padding-top: 60px;
 }
 
 h1, h2, h3 {
